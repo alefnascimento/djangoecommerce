@@ -1,2 +1,1 @@
-# djangoecommerce
-Repositório utilizado para meu curso de Django
+Repositório utilizado para meu curso de Django.
